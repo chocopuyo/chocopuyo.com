@@ -1,2 +1,7 @@
-body {
+#wrapper{
+  width:800px;
+  margin:auto;
+}
+#mini_chocos{
+  width:800px;
 }
